@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ![](https://github.com/CJ99/github-stats-action/blob/master/generated/overview.svg)
 ![](https://github.com/CJ99/github-stats-action/blob/master/generated/languages.svg)
-<img src="https://github-readme-stats.vercel.app/api?username=cj99&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
